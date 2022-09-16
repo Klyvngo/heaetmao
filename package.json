@@ -1,0 +1,21 @@
+{
+  "name": "heat-map-modele",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "chart.js": "3.3.2",
+    "chartjs-adapter-moment": "1.0.0",
+    "chartjs-chart-matrix": "1.0.2",
+    "lodash": "4.17.21",
+    "moment-timezone": "0.5.33"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
